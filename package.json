@@ -1,0 +1,12 @@
+{
+  "name": "DualSpaceNFT-hardhat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.17.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "4.9.0"
+  }
+}
